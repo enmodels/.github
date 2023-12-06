@@ -19,13 +19,38 @@
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
 
-<!--
+### 📕 Latest Blog Posts
 
-**Here are some ideas to get you started:**
+<!-- BLOG-POST-LIST:START -->
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- BLOG-POST-LIST:END -->
+
+### 📕 Latest Github Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [enmodels/.github](https://github.com/enmodels/.github)
+2. ⭐ Starred [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
+3. ⭐ Starred [jupyter-server/kernel_gateway](https://github.com/jupyter-server/kernel_gateway)
+4. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
+5. ⭐ Starred [prediqtiv/alpha-vantage-cookbook](https://github.com/prediqtiv/alpha-vantage-cookbook)
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, December 6th, 2023, 8:33:38 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+
+
+
+---
+
+
+[![Enmodels's GitHub stats](https://github-readme-stats.vercel.app/api?username=enmodels&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enmodels)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[website]: https://enmodels.com
