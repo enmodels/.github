@@ -41,12 +41,6 @@ Last Updated: Wednesday, December 6th, 2023, 8:33:38 PM
 
 ---
 
-[![Enmodels's GitHub stats](https://github-readme-stats.vercel.app/api?username=enmodels&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enmodels)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 [website]: https://enmodels.com
